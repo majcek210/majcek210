@@ -1,27 +1,75 @@
+```markdown
+<!-- Futuristic GitHub Profile README for itssloplayz -->
+
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/96/source-code.png" width="40"/> itssloplayz
+  <img src="https://user-images.githubusercontent.com/your-avatar.png" width="120" style="border-radius:50%"/>
+  <br/>
+  <span style="color:#00fff7;">itssloplayz</span>
 </h1>
 
 <p align="center">
-  <b>🚀 15 y/o Developer | Slovenia 🇸🇮 | Futuristic Visionary</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Mode-ON-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Roblox-Lua-red?style=for-the-badge&logo=roblox" />
-  <img src="https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-Active-green?style=for-the-badge&logo=node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=🚀+Coding+the+Future;👾+15y+old+Dev+from+Slovenia;🌌+Lua+%7C+JavaScript+%7C+HTML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-```js
-const itssloplayz = {
-  age: 15,
-  origin: "Slovenia",
-  languages: ["Lua", "JavaScript", "HTML/CSS", "Python"],
-  tools: ["Roblox Studio", "Node.js", "Express", "VS Code", "n8n"],
-  projects: ["Game Dev", "Web Backends", "Automation Systems", "Security Modules"],
-  status: "Always Learning 🧬"
-}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,github" />
+</p>
+
+---
+
+### ⚡ About Me
+
+```yaml
+name: itssloplayz
+age: 15
+location: Slovenia 🇸🇮
+focus: "Building cool stuff with Lua, JavaScript, and HTML"
+```
+
+- 🧠 Always learning, always exploring new tech
+- 🛠️ Working on futuristic and creative projects
+- 🤝 Open to collaborate on innovative ideas
+
+---
+
+### 🚀 My Futuristic Toolbox
+
+- **Languages:**  
+  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- **Tools:**  
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🌌 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itssloplayz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssloplayz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📡 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/itssloplayz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00FFF7?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <!-- Add more social links if you have them -->
+</p>
+
+---
+
+<p align="center" style="color:#00fff7;">
+  <b>“The best way to predict the future is to code it.”</b>
+</p>
+```
+
+You can copy and use this README for your GitHub profile! Feel free to personalize it with your avatar URL, and add more sections or links as you grow. 🚀
