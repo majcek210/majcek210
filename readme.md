@@ -1,12 +1,18 @@
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/itssloplayz.png" width="120" style="border-radius:50%"/>
+  <img 
+  src="https://github.com/itssloplayz.png" 
+  width="120" 
+  style="border-radius:50%; transition:transform 0.3s ease, box-shadow 0.3s ease;" 
+  onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #00fff7';" 
+  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" 
+/>
   <br/>
   <span style="color:#00fff7;">itssloplayz</span>
 </h1>
 
 <p align="center">
-  <<img 
+  <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Coding+the+Future;%F0%9F%91%BE+15y+old+Dev+from+Slovenia;%F0%9F%8C%8C+Lua+%7C+JavaScript+%7C+HTML+Enthusiast" 
   alt="Typing SVG" 
 />
