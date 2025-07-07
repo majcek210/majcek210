@@ -6,7 +6,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=🚀+Coding+the+Future;👾+15y+old+Dev+from+Slovenia;🌌+Lua+%7C+JavaScript+%7C+HTML+Enthusiast" alt="Typing SVG" />
+  <<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Coding+the+Future;%F0%9F%91%BE+15y+old+Dev+from+Slovenia;%F0%9F%8C%8C+Lua+%7C+JavaScript+%7C+HTML+Enthusiast" 
+  alt="Typing SVG" 
+/>
 </p>
 
 
