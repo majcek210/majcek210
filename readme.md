@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/your-avatar.png" width="120" style="border-radius:50%"/>
+  <img src="https://user-images.githubusercontent.com/itssloplayz.png" width="120" style="border-radius:50%"/>
   <br/>
   <span style="color:#00fff7;">itssloplayz</span>
 </h1>
@@ -54,7 +54,7 @@ focus: "Building cool stuff with Lua, JavaScript, and HTML"
 
 ---
 
-### 📡 Connect with Me
+### 📡 Know me more
 
 <p align="center">
   <a href="https://github.com/itssloplayz" target="_blank">
@@ -68,4 +68,3 @@ focus: "Building cool stuff with Lua, JavaScript, and HTML"
 <p align="center" style="color:#00fff7;">
   <b>“The best way to predict the future is to code it.”</b>
 </p>
-```
