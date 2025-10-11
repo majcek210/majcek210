@@ -1,14 +1,14 @@
 
 <h1 align="center">
   <img 
-  src="https://github.com/itssloplayz.png" 
+  src="https://github.com/majcek210.png" 
   width="120" 
   style="border-radius:50%; transition:transform 0.3s ease, box-shadow 0.3s ease;" 
   onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #00fff7';" 
   onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" 
 />
   <br/>
-  <span style="color:#00fff7;">itssloplayz</span>
+  <span style="color:#00fff7;">majcek210</span>
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ### ⚡ About Me
 
 ```yaml
-name: itssloplayz
+name: majcek210
 age: 15
 location: Slovenia 🇸🇮
 focus: "Building cool stuff with Lua, JavaScript, and HTML"
@@ -56,9 +56,9 @@ focus: "Building cool stuff with Lua, JavaScript, and HTML"
 ### 🌌 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itssloplayz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=majcek210&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssloplayz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majcek210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ focus: "Building cool stuff with Lua, JavaScript, and HTML"
 ### 📡 Know me more
 
 <p align="center">
-  <a href="https://github.com/itssloplayz" target="_blank">
+  <a href="https://github.com/majcek210" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-00FFF7?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <!-- Add more social links if you have them -->
