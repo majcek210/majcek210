@@ -11,12 +11,6 @@
   <span style="color:#00fff7;">majcek210</span>
 </h1>
 
-<p align="center">
-  <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Coding+the+Future;%F0%9F%91%BE+15y+old+Dev+from+Slovenia;%F0%9F%8C%8C+Lua+%7C+JavaScript+%7C+HTML+Enthusiast" 
-  alt="Typing SVG" 
-/>
-</p>
 
 
 
@@ -26,22 +20,19 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 ```yaml
 name: majcek210
 age: 15
 location: Slovenia 🇸🇮
-focus: "Building cool stuff with Lua, JavaScript, and HTML"
+focus: "Building cool stuff"
 ```
-
-- 🧠 Always learning, always exploring new tech
-- 🛠️ Working on futuristic and creative projects
-- 🤝 Open to collaborate on innovative ideas
-
+---
+[![An image of @majcek210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/majcek210)](https://holopin.io/@majcek210)
 ---
 
-### 🚀 My Futuristic Toolbox
+### My Toolbox
 
 - **Languages:**  
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -53,12 +44,11 @@ focus: "Building cool stuff with Lua, JavaScript, and HTML"
 
 ---
 
-### 🌌 Stats & Activity
+### Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=majcek210&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majcek210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,7 +59,6 @@ focus: "Building cool stuff with Lua, JavaScript, and HTML"
   <a href="https://github.com/majcek210" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-00FFF7?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <!-- Add more social links if you have them -->
 </p>
 
 ---
