@@ -14,7 +14,6 @@ name: majcek210<br>age: 15<br>location: Slovenia
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=majcek210&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-none here yet.
 ---
 [![](https://visitcount.itsvg.in/api?id=majcek210&icon=0&color=0)](https://visitcount.itsvg.in)
 
