@@ -1,5 +1,5 @@
 # About Me:
-name: majcek210<br>age: 15<br>location: Slovenia
+name: majcek210<br>age: 16<br>location: Slovenia
 
 
 # 💻 Tech Stack:
