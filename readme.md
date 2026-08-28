@@ -10,7 +10,7 @@ name: majcek210<br>age: 16<br>location: Slovenia
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=majcek210&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## CERTIFICATES
-[![Credly Badge](https://images.credly.com/size/150x150/images/2fcfde96-7a53-474f-8615-d27f4099f2ca.png)](https://www.credly.com/badges/2fcfde96-7a53-474f-8615-d27f4099f2ca/public_url)
+[![Credly Badge](https://images.credly.com/size/340x340/images/4a4de480-0a93-47f3-ac6e-a10523c21938/blob)](https://www.credly.com/earner/earned/badge/2fcfde96-7a53-474f-8615-d27f4099f2ca)
 ---
 [![](https://visitcount.itsvg.in/api?id=majcek210&icon=0&color=0)](https://visitcount.itsvg.in)
 
